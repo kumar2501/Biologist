@@ -20,7 +20,7 @@ output: html_document
 
 ### Thanksgiving "2022" celebration @ Zhang Lab
 
-<a href = "https://twitter.com/kumar2501">
+<a href = "">
 ![](images/thanks_giving_2022.png)
 </a>
 </div>
