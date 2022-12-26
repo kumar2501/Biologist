@@ -52,7 +52,6 @@ Publons:
 ### 
 </div>
 <div class="col-sm-6">
-<a href = " ">
 ![](images/logo.png)
 U of M-Saint Paul campus
 </a>
