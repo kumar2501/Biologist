@@ -20,11 +20,10 @@ output: html_document
 
 ### Happy hours @Zhang Lab Dec "2022" 
 
-<a href = "">
 ![](images/thanks_giving_2022_2.png)
 
 ![](images/thanks_giving_2022.png)
-![](images/apple_pie_zhang_thanks_giving_2022.png)
 
+![](images/apple_pie_zhang_thanks_giving_2022.png)
 </a>
 </div>
