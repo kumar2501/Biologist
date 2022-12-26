@@ -18,7 +18,7 @@ output: html_document
 <div class="col-sm-6">
 
 
-### Happy hours, Dec "2022" 
+### Happy hours @Zhang Lab Dec "2022" 
 
 <a href = "">
 ![](images/thanks_giving_2022_2.png)
