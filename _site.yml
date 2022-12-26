@@ -1,6 +1,6 @@
-name: "Welcome to Jitesh Kumar's website"
+name: "Jitesh Kumar"
 navbar:
-  title: "Welcome to Jitesh Kumar's website"
+  title: "Editing genome with precision"
   left:
     - text: "Home"
       href: index.html
