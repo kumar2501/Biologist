@@ -12,4 +12,6 @@ navbar:
       href: Links.html
     - text: "Fun time"
       href: Picture.html
+    - text: "Contact Me"
+      href: contact.html
 output_dir: "docs"
