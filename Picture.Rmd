@@ -1,5 +1,5 @@
 ---
-title: "Fun time after lab"
+title: "Fun Time"
 output: html_document
 ---
 
@@ -18,9 +18,11 @@ output: html_document
 <div class="col-sm-6">
 
 
-### Thanksgiving "2022" celebration @ Zhang Lab
+### Happy hours Dec2022 
 
 <a href = "">
+![](images/thanks_giving_2022_2.png)
 ![](images/thanks_giving_2022.png)
+![](images/apple_pie_zhang_thanks_giving_2022.png)
 </a>
 </div>
