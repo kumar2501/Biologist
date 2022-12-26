@@ -23,15 +23,15 @@ Jitesh is a Plant Molecular Biologist by training and interested in creating sma
 for sustainable agriculture. He is currently working on a technology for improving 
 precise genome editing for crop improvement at University of Minnesota-Twin Cities, USA
 
-## How to use
+## Academic affiliations
 
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
+1. Postdoctoral Research Associate, University of Minnesota-Twin Cities, USA. [https://experts.umn.edu/en/persons/jitesh-kumar](https://experts.umn.edu/en/persons/jitesh-kumar)
 
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
+2. Research Associate, Center of Innovative and Applied Bioprocessing, India 
 
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
+3. PhD, National Agri-Food Biotechnology Institute & Panjab University, India
 
-4. Change everything to make it your own.
+
 
 
 </div>
