@@ -7,9 +7,9 @@ output: html_document
 
 1.	High-throughput precise genome editing in plants
 
-2.	Understanding the DNA repair pathway in context of CRISPR induced damage
+2.	Understanding the DNA repair pathway to manipulate CRISPR/Cas9 induced outcome
 
-3.	Improving prime editing for trait development in plants.
+3.	Improving prime editing for trait development in plants
 
 
 ### 
