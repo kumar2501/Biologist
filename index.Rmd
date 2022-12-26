@@ -17,10 +17,10 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **About Jitesh**
-
-Jitesh is a Plant Molecular Biologist by training and interested in creating smart crops 
-for sustainable agriculture. He is currently working on a technology to improve 
+# About me
+My believe is Science should solve the need of human and make life better.
+I am a "Plant Molecular Biologist" by training therefore interested in creating smart crops 
+for sustainable agriculture. I am currently working on a technology to improve 
 precise genome editing for crop improvement at University of Minnesota-Twin Cities, USA
 
 ## Academic affiliations
