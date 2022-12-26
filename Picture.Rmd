@@ -18,7 +18,7 @@ output: html_document
 <div class="col-sm-6">
 
 
-### Thanksgiving "2022" celebration @ Zhang Lab
+###Thanksgiving "2022" celebration @ Zhang Lab
 
 <a href = "">
 ![](images/thanks_giving_2022.png)
