@@ -20,7 +20,7 @@ output: html_document
 # **About Jitesh**
 
 Jitesh is a Plant Molecular Biologist by training and interested in creating smart crops 
-for sustainable agriculture. He is currently working on a technology for improving 
+for sustainable agriculture. He is currently working on a technology to improve 
 precise genome editing for crop improvement at University of Minnesota-Twin Cities, USA
 
 ## Academic affiliations
