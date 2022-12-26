@@ -1,5 +1,5 @@
 ---
-title: "Editing plant genome with pecision"
+title: "Editing plant genome with precision"
 output: html_document
 ---
 
