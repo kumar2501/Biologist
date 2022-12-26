@@ -16,20 +16,18 @@ output: html_document
 
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
-
-# About me
+# 
 My believe is Science should solve the need of human and make life better.
 I am a "Plant Molecular Biologist" by training therefore interested in creating smart crops 
 for sustainable agriculture. I am currently working on a technology to improve 
 precise genome editing for crop improvement at University of Minnesota-Twin Cities, USA
 
-## Academic affiliations
 
-1. Post-Doctoral Associate, University of Minnesota-Twin Cities, USA. [https://experts.umn.edu/en/persons/jitesh-kumar](https://experts.umn.edu/en/persons/jitesh-kumar)
 
-2. Research Associate, Center of Innovative and Applied Bioprocessing, India 
 
-3. PhD, National Agri-Food Biotechnology Institute & Panjab University, India
+
+## 
+
 
 
 
