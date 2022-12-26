@@ -37,7 +37,7 @@ This is a template example for lab journaling. Students in Matt Crump's Human Co
 
 ###                  [Editing genome with the precision](https://twitter.com/kumar2501)
 
-<a href = "https://crumplab.github.io">
+<a href = "https://twitter.com/kumar2501">
 ![](images/logo.png)
 </a>
 </div>
