@@ -17,8 +17,12 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-
 ### Talk @ Plant Biology 2022 | July 9-13, 2022 | Portland Oregon
+
 ![](images/ASPB_2022_talk.png)
+
+### Talk @ Focus Scientist for the Biology Saves the World project in BIOL 1806 | Spring, 2022 | U of M
+
+![](images/BSW_mar_2022.png)
 </a>
 </div>
