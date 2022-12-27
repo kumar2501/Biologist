@@ -30,7 +30,7 @@ In order to engineer plants with precision, a rational approach is needed to imp
 
 I am a "Plant Molecular Biologist" by training and my ultimate long term goal is to create smart crops 
 for a sustainable agriculture. To accomplish this, I am currently working on a technology to improve 
-precise genome editing for crop improvement at University of Minnesota-Twin Cities, USA. We are investigation factors that could improve targeted insertion and prime editing in the model plant and crops.
+precise genome editing for crop improvement at University of Minnesota-Twin Cities, USA. We are investigation factors that could improve targeted insertion and precise mutation in the model plant and crops.
 
 
 
