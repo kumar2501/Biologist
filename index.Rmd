@@ -16,7 +16,7 @@ output: html_document
 
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
-# 
+# My Scientific goal
 
 "Food is the moral right of all who are born into this world: Norman Borlaug"
 
@@ -36,12 +36,23 @@ precise genome editing for crop improvement at University of Minnesota-Twin Citi
 
 
 
-
-## 
-
+###
 
 
 
+
+
+
+
+
+
+## Education
+                
+  Postdoctoral Associate, University of Minnesota, Twin Cities, USA 2020- current 
+
+  Research Associate, Center of Innovative and Applied Bioprocessing, India 
+
+  PhD, National Agri-Food Biotechnology Institute & Panjab University India, India
 
 </div>
 <div class="col-sm-6">
