@@ -25,11 +25,12 @@ Office:
 
 Jitesh Kumar
 
+
 Zhang Lab
 
+340 Cargill Building 1500 Gortner Ave Saint Paul,
 Department of Plant and Microbial Biology,
-Center for Precision Plant Genomics, 
-340 Cargill Building 1500 Gortner Ave Saint Paul,  
+Center for Precision Plant Genomics,
 University of Minnesota, MN-55108.
 
 Email:
@@ -39,15 +40,15 @@ kumar708(at)umn(dot)edu
 kumar2501(at)gmail(dot)com
 
 
-Twitter:
+Twitter: https://twitter.com/kumar2501
 
-Researchgate: 
-
-
-Github:
+Researchgate: https://www.researchgate.net/profile/Jitesh-Kumar-9
 
 
-Publons:
+ORCID: https://orcid.org/0000-0003-1606-3420
+
+
+
 
 ### 
 </div>
