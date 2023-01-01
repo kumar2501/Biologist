@@ -11,9 +11,8 @@ navbar:
     - text: "Publications"
       href: Journal.html
     - text: "News"
+      icon: fa-solid fa-newspaper
       href: Links.html
-    - text: "Fun time"
-      href: Picture.html
     - text: "Contact"
       icon: fa-regular fa-envelope
       href: mailto:kumar2501@gmail.com
