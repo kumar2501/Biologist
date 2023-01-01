@@ -15,11 +15,11 @@ navbar:
     - text: "Fun time"
       href: Picture.html
     - text: "Contact"
-      icon: fa-Gmail
+      icon: fa-regular fa-envelope
       href: mailto:kumar2501@gmail.com
     - text: "Twitter"
       icon: fa-twitter
       href: https://twitter.com/kumar2501
 output_dir: "docs"
-theme: spacelab
+
     
