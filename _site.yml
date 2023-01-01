@@ -2,7 +2,7 @@ name: "Jitesh Kumar"
 navbar:
   title: "Jitesh Kumar, PhD"
   type: inverse
-  left:
+  right:
     - text: "Home"
       href: index.html
     - text: "Project"
