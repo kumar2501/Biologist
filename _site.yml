@@ -4,6 +4,7 @@ navbar:
   type: inverse
   right:
     - text: "Home"
+      icon: fa-home
       href: index.html
     - text: "Project"
       href: project.html
