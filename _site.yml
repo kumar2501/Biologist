@@ -1,6 +1,7 @@
 name: "Jitesh Kumar"
 navbar:
   title: "Jitesh Kumar, PhD"
+  type: inverse
   left:
     - text: "Home"
       href: index.html
@@ -12,6 +13,12 @@ navbar:
       href: Links.html
     - text: "Fun time"
       href: Picture.html
-    - text: "Contact Me"
-      href: contact.html
+    - text: "Contact"
+      icon: fa-Gmail
+      href: mailto:kumar2501@gmail.com
+    - text: "Twitter"
+      icon: fa-twitter
+      href: https://twitter.com/kumar2501
 output_dir: "docs"
+theme: spacelab
+    
